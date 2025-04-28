@@ -1,0 +1,23 @@
+Nombre del videojuego:
+El reino de las palabras 
+
+Descripción:
+Videojuego educativo para enseñar sinónimos y antónimos.
+
+Repositorio del proyecto:
+https://github.com/MiguelZT18/El-reino-de-las-palabras/tree/main
+
+Ramas creadas:
+- Fonts
+- Imagenes
+- scenes
+-sprites
+
+Commits realizados:
+- Agregué fuentes del juego
+- Agregué imagenes del juego
+- Agregué escenas del juego
+- Agregué sprites del juego
+
+Proceso de trabajo:
+Se creó una rama para cada sección del videojuego educativo. Cada rama fue trabajada individualmente y posteriormente fusionada (merge) a la rama principal (main). Finalmente, todos los cambios fueron subidos a GitHub.
